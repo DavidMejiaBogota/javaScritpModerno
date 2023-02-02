@@ -1,5 +1,5 @@
 //Creación de números
-
+console.log("Tema 1 números");
 const numero1 = 30;
 const numero2 = 20;
 const numero3 = 20.20;
