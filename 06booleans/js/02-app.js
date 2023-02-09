@@ -1,4 +1,4 @@
-console.log("to compare booleans");
+console.log("Theme 5: Boolenas - Exercise 2 -to compare booleans");
 
 const boolean5 = true;
 const boolean6 = false;
